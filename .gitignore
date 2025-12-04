@@ -1,0 +1,44 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+test_env/
+venv/
+env/
+.venv/
+
+# Logs
+logs/
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+*.swp
+*.swo
+.vscode/
+*.sublime-workspace
+*.sublime-project
+
+# Temporary files
+*.tmp
+*.bak
+*.old
+
+# Git merge/reserve files
+*.orig
+
+# Python packaging / build files
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Compiled binaries
+*.out
+*.o
+*.so
