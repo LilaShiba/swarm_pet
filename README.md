@@ -1,12 +1,14 @@
-# A Different Kind of Daemon
+<h1 align="center">
+  A Different Kind of Daemon
 
-![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqqNQSNy2eJl36jc4iC-HIXsmn78UZYBs4Vg&s)
+![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqqNQSNy2eJl36jc4iC-HIXsmn78UZYBs4Vg&s) 
+</h1>
 
 [DPR Interface](https://github.com/LilaShiba/distributed_llm_agent) 
 > Distributed DPR System  ✅
 
 
-[Sensor Array](https://github.com/LilaShiba/meow_cmds)
+[Sensor Array](https://github.com/LilaShiba/third_wave)
 > Environmental Monitoring System  ✅
 
 [Swarm Command](#)
